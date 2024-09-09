@@ -1,9 +1,9 @@
 {
-    "name": "Topu Pairing",
-    "description": "FLASH-MD WA bot, Created by France King",
-    "logo": "https://telegra.ph/file/8dace2d24b82568c29e19.jpg",
+    "name": "Johnleo Pairing",
+    "description": "JOHNLEO-MD WA bot, Created by Johnleo",
+    "logo": "https://telegra.ph/file/ee73167f14236e3216935.jpg",
     "repository": "https://github.com/toputech/Flash-Md-Session11/tree/main",
-    "keywords": ["FlashMd"],
+    "keywords": ["Johnleo-Md"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
