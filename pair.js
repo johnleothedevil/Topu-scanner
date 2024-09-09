@@ -57,30 +57,34 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: ''+ b64data });
 
                let FLASH_MD_TEXT = `
-*𝕰𝖊𝖊𝖞... 𝖙𝖔𝖕𝖚 𝖉𝖒𝖍 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
-*Wow you choosen TOPU-MD complete the deployment and enyoy the speed*
+*𝐒𝐞𝐞𝐧 🙂, 𝐉𝐨𝐡𝐧𝐥𝐞𝐨-𝐌𝐝 𝐡𝐚𝐬 𝐣𝐮𝐬𝐭 𝐛𝐞𝐞𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝; 𝐂𝐨𝐩𝐲 𝐲𝐨𝐮𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 🆔*
+*Wow you choosen Johnleo-Md complete the deployment and enjoy the bot*
 ____________________________________
 ╔════◇
-║『 *TOPU AI IS READY TO DEPLOY』
+║『 *JOHNLEO MD IS READY TO DEPLOY』
 ║ YOUR SESSION IS READY. COPY IT  
 ║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 
-║ ❒ 𝐎wner: _https://wa.me/message/5WRTCPHFKUGFM1_
+║ ❒ 𝐎wner: _https://wa.me/message/2348027387246_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Toputech/Topu-ai_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/johnleosmith/Johnleo-Md_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/BxelCdrHnDYBNfMy2jafgI_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/GkOeZ2eLZhx6lenAq1z83o_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r_
-║ 
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VamlYh41SWssaEvw4E2i_
+
+║ ❒ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://t.me/JohnleoTech_
+
+║ ❒ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://www.youtube.com/@JohnleoTech_
+
 ╚════════════════════╝ 
- *©TOPU TECH*
+ *©JOHNLEO TECH*
 ___________________________________
 
-Don't Forget To Give Star To My Repo_`
+_Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
